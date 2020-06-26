@@ -1,0 +1,8 @@
+{
+    "db": {
+        "elasticsearchConnection": "http://localhost:9200",
+        "mongodbConnection": "mongodb://localhost:27017"
+    },
+    "jwtsecret": "secretkey",
+    "minutesOfTokenExpiration": 7
+}
