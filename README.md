@@ -1,1 +1,1 @@
-# blogging
+# Nodejs Blogging platform
